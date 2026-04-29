@@ -22,10 +22,24 @@ h1 {
 
 .fekete {
     color: black;
+    background-color: white;
 }
 
 .alakzat {
     text-align: center;
     margin: 0;
-    font-size: ;
+    font-size: 6em;
+}
+
+.kepalairas {
+    font-style: italic;
+    font-size: 12px;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 6px;
+}
+
+.felsorolas {
+    line-height: 2.5em;
+    list-style: url('huszar-felsorolas.png');
 }
